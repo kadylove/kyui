@@ -1,6 +1,6 @@
 # kyui
 kady ui
 
-layer design
+# layer design
 ui - > controller - service - dao - db
 
